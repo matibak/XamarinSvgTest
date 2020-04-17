@@ -1,0 +1,11 @@
+/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest/bin/Debug/netstandard2.0/SvgTest.deps.json
+/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest/bin/Debug/netstandard2.0/SvgTest.dll
+/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest/bin/Debug/netstandard2.0/SvgTest.pdb
+/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest/obj/Debug/netstandard2.0/SvgTest.csprojAssemblyReference.cache
+/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest/obj/Debug/netstandard2.0/SvgTest.AssemblyInfoInputs.cache
+/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest/obj/Debug/netstandard2.0/SvgTest.AssemblyInfo.cs
+/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest/obj/Debug/netstandard2.0/SvgTest.dll
+/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest/obj/Debug/netstandard2.0/SvgTest.pdb

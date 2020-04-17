@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:forms="clr-namespace:FFImageLoading.Svg.Forms;assembly=FFImageLoading.Svg.Forms"
+             xmlns:forms9Patch="clr-namespace:Forms9Patch;assembly=Forms9Patch"
+             xmlns:svgTest="clr-namespace:SvgTest;assembly=SvgTest"
+             x:Class="SvgTest.MainPage">
+    <ScrollView>
+        <StackLayout
+            BackgroundColor="Gray">
+            <Label Text="FFImageLoading" TextColor="Azure" />
+            <forms:SvgCachedImage
+                Source="resource://SvgTest.Resources.1.svg" />
+            <forms:SvgCachedImage
+                Source="resource://SvgTest.Resources.2.svg" />
+            <forms:SvgCachedImage
+                Source="resource://SvgTest.Resources.3.svg" />
+            <forms:SvgCachedImage
+                Source="resource://SvgTest.Resources.h1.svg" />
+            <forms:SvgCachedImage
+                Source="resource://SvgTest.Resources.h2.svg" />
+            <forms:SvgCachedImage
+                Source="resource://SvgTest.Resources.h3.svg" />
+            <Label Text="Forms9Patch" TextColor="Azure" />
+            <forms9Patch:Image x:Name="Forms9PatchImage1" />
+            <forms9Patch:Image x:Name="Forms9PatchImage2" />
+            <forms9Patch:Image x:Name="Forms9PatchImage3" />
+            <forms9Patch:Image x:Name="Forms9PatchImageh1" />
+            <forms9Patch:Image x:Name="Forms9PatchImageh2" />
+            <forms9Patch:Image x:Name="Forms9PatchImageh3" />
+            <Label Text="SkiaSharp.SKSvg" TextColor="Azure" />
+            <svgTest:SkiaSharpSKSvgIcon ResourceId="SvgTest.Resources.1.svg" />
+            <svgTest:SkiaSharpSKSvgIcon ResourceId="SvgTest.Resources.2.svg" />
+            <svgTest:SkiaSharpSKSvgIcon ResourceId="SvgTest.Resources.3.svg" />
+            <svgTest:SkiaSharpSKSvgIcon ResourceId="SvgTest.Resources.h1.svg" />
+            <svgTest:SkiaSharpSKSvgIcon ResourceId="SvgTest.Resources.h2.svg" />
+            <svgTest:SkiaSharpSKSvgIcon ResourceId="SvgTest.Resources.h3.svg" />
+            <Label Text="SkiaSharp.Extended.Svg.SKSvg" TextColor="Azure" />
+            <svgTest:SkiaSharpExtendedSvgSKSvgIcon ResourceId="SvgTest.Resources.1.svg" />
+            <svgTest:SkiaSharpExtendedSvgSKSvgIcon ResourceId="SvgTest.Resources.2.svg" />
+            <svgTest:SkiaSharpExtendedSvgSKSvgIcon ResourceId="SvgTest.Resources.3.svg" />
+            <svgTest:SkiaSharpExtendedSvgSKSvgIcon ResourceId="SvgTest.Resources.h1.svg" />
+            <svgTest:SkiaSharpExtendedSvgSKSvgIcon ResourceId="SvgTest.Resources.h2.svg" />
+            <svgTest:SkiaSharpExtendedSvgSKSvgIcon ResourceId="SvgTest.Resources.h3.svg" />
+
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+    </PropertyGroup>
+
+    <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+        <DebugType>pdbonly</DebugType>
+        <DebugSymbols>true</DebugSymbols>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Forms9Patch" Version="2.2.6" />
+        <PackageReference Include="SkiaSharp.Extended" Version="1.60.0" />
+        <PackageReference Include="Xamarin.FFImageLoading.Svg.Forms" Version="2.4.11.982" />
+        <PackageReference Include="Xamarin.Forms" Version="4.5.0.617" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="Resources\1.svg" />
+      <EmbeddedResource Include="Resources\1.svg" />
+      <None Remove="Resources\2.svg" />
+      <EmbeddedResource Include="Resources\2.svg" />
+      <None Remove="Resources\3.svg" />
+      <EmbeddedResource Include="Resources\3.svg" />
+      <None Remove="Resources\h1.svg" />
+      <EmbeddedResource Include="Resources\h1.svg" />
+      <None Remove="Resources\h2.svg" />
+      <EmbeddedResource Include="Resources\h2.svg" />
+      <None Remove="Resources\h3.svg" />
+      <EmbeddedResource Include="Resources\h3.svg" />
+    </ItemGroup>
+</Project>

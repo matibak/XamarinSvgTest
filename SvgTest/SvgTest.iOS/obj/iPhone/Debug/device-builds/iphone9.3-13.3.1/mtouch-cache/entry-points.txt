@@ -1,0 +1,65 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_StrErrorR
+	/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_OpenDir
+	/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetReadDirRBufferSize
+	/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadDirR
+	/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CloseDir
+	/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadLink
+	/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Symlink
+	/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CopyFile
+	/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEGid
+	/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEUid
+	/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Link
+	/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_MkDir
+	/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Rename
+	/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_RmDir
+	/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_UTimes
+	/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Unlink
+	/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.3.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.3.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.3.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.3.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.3.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.3.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_start_wwan
+	/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest.iOS/obj/iPhone/Debug/device-builds/iphone9.3-13.3.1/mtouch-cache/1-Link/System.dll
+Function=mono_pmip

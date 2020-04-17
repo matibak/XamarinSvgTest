@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "wkxvSLspaBFFxXAek3c5fmXD6w09J3nc3mhq5zZd5PMRPgZXu1TwgHFAd4QJZwq8HMJ73LYR0o3r0CWtusipdA==",
+  "success": true,
+  "projectFilePath": "/Users/mateuszbak/RiderProjects/SvgTest/SvgTest/SvgTest.iOS/SvgTest.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/mateuszbak/.nuget/packages/forms9patch/2.2.6/forms9patch.2.2.6.nupkg.sha512",
+    "/Users/mateuszbak/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/mateuszbak/.nuget/packages/skiasharp/1.68.1.1/skiasharp.1.68.1.1.nupkg.sha512",
+    "/Users/mateuszbak/.nuget/packages/skiasharp.extended/1.60.0/skiasharp.extended.1.60.0.nupkg.sha512",
+    "/Users/mateuszbak/.nuget/packages/skiasharp.svg/1.60.0/skiasharp.svg.1.60.0.nupkg.sha512",
+    "/Users/mateuszbak/.nuget/packages/skiasharp.views/1.68.1.1/skiasharp.views.1.68.1.1.nupkg.sha512",
+    "/Users/mateuszbak/.nuget/packages/skiasharp.views.forms/1.68.1.1/skiasharp.views.forms.1.68.1.1.nupkg.sha512",
+    "/Users/mateuszbak/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/mateuszbak/.nuget/packages/webp.touch/1.0.8/webp.touch.1.0.8.nupkg.sha512",
+    "/Users/mateuszbak/.nuget/packages/xamarin.essentials/1.3.1/xamarin.essentials.1.3.1.nupkg.sha512",
+    "/Users/mateuszbak/.nuget/packages/xamarin.ffimageloading/2.4.11.982/xamarin.ffimageloading.2.4.11.982.nupkg.sha512",
+    "/Users/mateuszbak/.nuget/packages/xamarin.ffimageloading.forms/2.4.11.982/xamarin.ffimageloading.forms.2.4.11.982.nupkg.sha512",
+    "/Users/mateuszbak/.nuget/packages/xamarin.ffimageloading.svg/2.4.11.982/xamarin.ffimageloading.svg.2.4.11.982.nupkg.sha512",
+    "/Users/mateuszbak/.nuget/packages/xamarin.ffimageloading.svg.forms/2.4.11.982/xamarin.ffimageloading.svg.forms.2.4.11.982.nupkg.sha512",
+    "/Users/mateuszbak/.nuget/packages/xamarin.forms/4.5.0.617/xamarin.forms.4.5.0.617.nupkg.sha512"
+  ],
+  "logs": []
+}
