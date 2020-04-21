@@ -22,6 +22,10 @@
                 Source="resource://SvgTest.Resources.h2.svg" />
             <forms:SvgCachedImage
                 Source="resource://SvgTest.Resources.h3.svg" />
+            <forms:SvgCachedImage
+                Source="resource://SvgTest.Resources.car1.svg" />
+            <forms:SvgCachedImage
+                Source="resource://SvgTest.Resources.car2.svg" />
             <Label Text="Forms9Patch" TextColor="Azure" />
             <forms9Patch:Image x:Name="Forms9PatchImage1" />
             <forms9Patch:Image x:Name="Forms9PatchImage2" />
@@ -29,6 +33,8 @@
             <forms9Patch:Image x:Name="Forms9PatchImageh1" />
             <forms9Patch:Image x:Name="Forms9PatchImageh2" />
             <forms9Patch:Image x:Name="Forms9PatchImageh3" />
+            <forms9Patch:Image x:Name="Forms9PatchImageCar1" />
+            <forms9Patch:Image x:Name="Forms9PatchImageCar2" />
             <Label Text="SkiaSharp.SKSvg" TextColor="Azure" />
             <svgTest:SkiaSharpSKSvgIcon ResourceId="SvgTest.Resources.1.svg" />
             <svgTest:SkiaSharpSKSvgIcon ResourceId="SvgTest.Resources.2.svg" />
@@ -36,6 +42,8 @@
             <svgTest:SkiaSharpSKSvgIcon ResourceId="SvgTest.Resources.h1.svg" />
             <svgTest:SkiaSharpSKSvgIcon ResourceId="SvgTest.Resources.h2.svg" />
             <svgTest:SkiaSharpSKSvgIcon ResourceId="SvgTest.Resources.h3.svg" />
+            <svgTest:SkiaSharpSKSvgIcon ResourceId="SvgTest.Resources.car1.svg" />
+            <svgTest:SkiaSharpSKSvgIcon ResourceId="SvgTest.Resources.car2.svg" />
             <Label Text="SkiaSharp.Extended.Svg.SKSvg" TextColor="Azure" />
             <svgTest:SkiaSharpExtendedSvgSKSvgIcon ResourceId="SvgTest.Resources.1.svg" />
             <svgTest:SkiaSharpExtendedSvgSKSvgIcon ResourceId="SvgTest.Resources.2.svg" />
@@ -43,7 +51,8 @@
             <svgTest:SkiaSharpExtendedSvgSKSvgIcon ResourceId="SvgTest.Resources.h1.svg" />
             <svgTest:SkiaSharpExtendedSvgSKSvgIcon ResourceId="SvgTest.Resources.h2.svg" />
             <svgTest:SkiaSharpExtendedSvgSKSvgIcon ResourceId="SvgTest.Resources.h3.svg" />
-
+            <svgTest:SkiaSharpExtendedSvgSKSvgIcon ResourceId="SvgTest.Resources.car1.svg" />
+            <svgTest:SkiaSharpExtendedSvgSKSvgIcon ResourceId="SvgTest.Resources.car2.svg" />
         </StackLayout>
     </ScrollView>
 </ContentPage>
